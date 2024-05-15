@@ -43,5 +43,5 @@ Branch Management: Manage information about library branches, like their numbers
 
 ## If you have any inquiries, don't hesitate to reach out via email at anis.partovov_2026@ucentralasia.org. 
 
-# Also I will add it to my github and you can chack it there. Here is link to my Github:
+## Also I will add it to my github and you can chack it there. Here is link to my Github:
 https://github.com/AnisPartovov/Library-Management-System/tree/main 
