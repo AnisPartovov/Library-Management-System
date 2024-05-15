@@ -1,5 +1,4 @@
-# Library-Management-System
-Final project from Database Management System 
+# Final project from Database Management System 
 
 # Library Management System made by Anis Partovov 
 This project is like a digital helper for libraries. It keeps track of books, customers, and staff, making borrowing and returning books easier. It's made using PSQL and stores lots of book details, like availability and cost. Plus, it helps manage library members and staff efficiently.
