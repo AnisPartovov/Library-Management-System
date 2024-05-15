@@ -41,6 +41,7 @@ Branch Management: Manage information about library branches, like their numbers
 10) Display branch numbers along with the count of employees for branches with more than one employee.
 
 
-# If you have any inquiries, don't hesitate to reach out via email at anis.partovov_2026@ucentralasia.org. 
+## If you have any inquiries, don't hesitate to reach out via email at anis.partovov_2026@ucentralasia.org. 
 
-# Also I will add it to my github and you can chack it there  
+# Also I will add it to my github and you can chack it there. Here is link to my Github:
+https://github.com/AnisPartovov/Library-Management-System/tree/main 
